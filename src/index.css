@@ -59,6 +59,10 @@ nav a:active {
   background-color: cornsilk;
 }
 
+.about {
+  background-color: red;
+}
+
 #about img {
   max-height: 50%;
 }
